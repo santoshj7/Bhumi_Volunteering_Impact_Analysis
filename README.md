@@ -33,7 +33,7 @@ For this project, I used the following tools and technologies:
 ## Key Visualizations:
 **Interactive Power BI Dashboard**: A dynamic, user-friendly dashboard with multiple pages, including **Overall Volunteering**, **Civic Volunteering**, **Corporate Volunteering**, and **Volunteering Impact & Outcomes**. The dashboard consolidates key metrics and visual stories to effectively highlight program impact.
 
-[Click here](https://app.powerbi.com/view?r=eyJrIjoiODVkNDA5ZjYtM2I2NS00YmVmLWJlNGEtYzA1Njc0NWY4MTgxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to access an **Interactive Power BI Report** showcasing project's results and visualizations.
+[Click here](https://project.novypro.com/H4K4Oy) to access an **Interactive Power BI Report** showcasing project's results and visualizations.
 ## Screenshots:
 
 ![Report](https://github.com/santoshj7/Bhumi_Volunteering_Impact_Analysis/blob/main/Dashboard.png)
