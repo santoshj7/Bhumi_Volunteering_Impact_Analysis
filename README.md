@@ -35,6 +35,7 @@ For this project, I used the following tools and technologies:
 - **Civic Volunteering**
 - **Corporate Volunteering**
 - **Volunteering Impact & Outcomes**.
+
 The dashboard consolidates key metrics and visual stories to effectively highlight program impact.
 
 [Click here](https://project.novypro.com/H4K4Oy) to access an **Interactive Power BI Report** showcasing project's results and visualizations.
