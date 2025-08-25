@@ -35,9 +35,7 @@ For this project, I used the following tools and technologies:
 [Click here](https://project.novypro.com/H4K4Oy) to access an **Interactive Power BI Report** showcasing project's results and visualizations.
 
 ## Demo:
-Had the privilege to present my Bhumi Volunteering Impact Dashboard at the **Data Change Makers Live Volunteer Showcase event**. My work was selected along with 3 others volunteer reports for this showcase.
-
-[Click here](https://youtu.be/qQygrhCpyh0?si=9PNgq20lntZHOFkX) to watch my presentation.
+Had the privilege to present my Bhumi Volunteering Impact Dashboard at the [**Data Change Makers Live Volunteer Showcase event**](https://youtu.be/qQygrhCpyh0?si=9PNgq20lntZHOFkX). My work was selected along with 3 others volunteer reports for this showcase.
 
 ## Screenshots:
 
