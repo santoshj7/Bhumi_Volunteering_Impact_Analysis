@@ -28,12 +28,17 @@ Data Source: Collected through Bhumi’s internal systems, maintained by teams a
 ## Analytical Tools:
 For this project, I used the following tools and technologies: 
 
-- **Excel**
 - **Power BI**
 ## Key Visualizations:
 **Interactive Power BI Dashboard**: A dynamic, user-friendly dashboard with multiple pages, including **Overall Volunteering**, **Civic Volunteering**, **Corporate Volunteering**, and **Volunteering Impact & Outcomes**. The dashboard consolidates key metrics and visual stories to effectively highlight program impact.
 
 [Click here](https://project.novypro.com/H4K4Oy) to access an **Interactive Power BI Report** showcasing project's results and visualizations.
+
+## Demo:
+Had the privilege to present my Bhumi Volunteering Impact Dashboard at the **Data Change Makers Live Volunteer Showcase event**. My work was selected along with 3 others volunteer reports for this showcase.
+
+[Click here](https://youtu.be/qQygrhCpyh0?si=9PNgq20lntZHOFkX) to watch my presentation.
+
 ## Screenshots:
 
 ![Report](https://github.com/santoshj7/Bhumi_Volunteering_Impact_Analysis/blob/main/Dashboard.png)
